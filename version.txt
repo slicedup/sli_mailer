@@ -1,0 +1,6 @@
+Version=0.2
+Date=20 June 2011
+Source=http://www.github.com/Slicedup/sli_mailer
+Docs=TBC
+Api=TBC
+Authors[]=Paul Webster
